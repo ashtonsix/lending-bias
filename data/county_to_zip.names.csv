@@ -1,0 +1,9 @@
+stat,description
+ZIP,"5 digit USPS ZIP code"
+TRACT,"11 digit unique 2000 or 2010 Census tract GEOID consisting of state FIPS + county FIPS + tract code. The decimal is implied and leading and trailing zeros have been preserved."
+COUNTY,"5 digit unique 2000 or 2010 Census county GEOID consisting of state FIPS + county FIPS."
+CBSA,"5 digit CBSA code for Micropolitan and Metropolitan Areas as defined by OMB in February of 2013. ZIP codes with a CBSA code of ‘99999’ are not located within a CBSA. In Metropolitan Areas that are broken out into Divisions, the code reported is the CBSA Metropolitan Division code."
+RES_RATIO,"The ratio of residential addresses in the ZIP – Tract, County, or CBSA part to the total number of residential addresses in the entire ZIP."
+BUS_RATIO,"The ratio of business addresses in the ZIP – Tract, County, or CBSA part to the total number of business addresses in the entire ZIP."
+OTH_RATIO,"The ratio of other addresses in the ZIP – Tract, County, or CBSA part to the total number of other addresses in the entire ZIP."
+TOTAL_RATIO,"The ratio of all addresses in the ZIP – Tract, County, or CBSA part to the total number of all types of addresses in the entire ZIP."
