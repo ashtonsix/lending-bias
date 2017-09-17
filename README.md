@@ -1,7 +1,7 @@
 Discrimination in Loan Applications
 ===================================
 
-> The companion to this [blog post](https://medium.com/[UPDATE ME])
+> The companion to this [blog post](https://medium.com/@AshtonWar/discrimination-in-loan-applications-f568f4d291fd)
 
 **See my analysis in more detail**
 
