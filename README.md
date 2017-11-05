@@ -5,11 +5,11 @@ Discrimination in Loan Applications
 
 **See my analysis in more detail**
 
-Open [`./main.ipynb`](./main.ipynb)
+Open [`main.ipynb`](./main.ipynb)
 
 **Read about the data used**
 
-Open `data/README.md`
+Open [`data/README.md`](./data/README.md)
 
 **Experiment yourself**
 
