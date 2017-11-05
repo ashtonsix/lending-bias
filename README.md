@@ -5,7 +5,7 @@ Discrimination in Loan Applications
 
 **See my analysis in more detail**
 
-Open `main.html`
+Open [`./main.ipynb`](./main.ipynb)
 
 **Read about the data used**
 
